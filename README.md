@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://badge.thamelthreads.com/pr?add=128&del=42&commits=5" alt="Sample PR badge" />
+  <img src="https://insigno.thamelthreads.com/pr?add=128&del=42&commits=5" alt="Sample PR badge" />
 </p>
 
 ---
