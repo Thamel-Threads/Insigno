@@ -25,7 +25,7 @@ PR metrics badge:
 GET /pr?add=128&del=42&commits=5
 ```
 Example:
-`https://badge.thamelthreads.com/pr?add=128&del=42&commits=6`
+`https://insigno.thamelthreads.com/pr?add=128&del=42&commits=6`
 
 ---
 
