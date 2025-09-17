@@ -1,0 +1,19 @@
+{
+  "name": "insigno",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "bun src/server.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/pako": "^2.0.4"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "lru-cache": "^11.2.1"
+  }
+}
